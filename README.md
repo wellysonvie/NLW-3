@@ -1,4 +1,4 @@
-# NLW-3
+# happy
 Projeto desenvolvido na Next Level Week #3 da Rocketseat
 
 Consiste em uma aplicação para encontrar orfanatos próximos, através de um mapa, e agendar uma visita ou cadastrar um novo orfanato.
